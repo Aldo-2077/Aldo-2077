@@ -1,7 +1,15 @@
-# Hi, I'm Aldo! <br/><a href="https://www.linkedin.com/in/aldo-oliveri-14b489211">Cybersecurity Transitionist</a>
+# Hi, I'm Aldo! <br>[Cybersecurity Transitionist](https://www.linkedin.com/in/aldo-oliveri-14b489211)
 
 <br>
-## Cybersecurity Projects:
+
+### This Github profile is to showcase projects I have created as well as tools I have experience with.
+
+<br>
+
+---
+<br>
+
+## [Cybersecurity Projects](https://github.com/Aldo-2077/Cybersecurity-Projects.git):
 
 - **PowerShell**
   - In progress
@@ -11,14 +19,16 @@
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
   - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM) //-->
 
-- <b>Python</b>
+- **Python**
   - In progress
   <!-- [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm) -->
 
-- <b>C#</b>
+- **C#**
   - In progress
 
-<h2> 🤳 Connect with me:</h2>
+## Tools I Use
+
+## Connect with me:
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
