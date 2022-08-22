@@ -1,9 +1,9 @@
-<h1>Hi, I'm Aldo! <br/><a href="https://www.linkedin.com/in/aldo-oliveri-14b489211">Cybersecurity Transitionist</a></h1>
+# Hi, I'm Aldo! <br/><a href="https://www.linkedin.com/in/aldo-oliveri-14b489211">Cybersecurity Transitionist</a>
 
 <br>
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+## Cybersecurity Projects:
 
-- <b>PowerShell</b>
+- **PowerShell**
   - In progress
   
  <!-- - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
