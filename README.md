@@ -9,10 +9,10 @@
 ---
 ## [Cybersecurity Projects](https://github.com/Aldo-2077/Cybersecurity-Projects.git)
 
----
+
 ## [Tools I Use](https://github.com/Aldo-2077/Tools-I-Use.git)
----
+
 ## [Training Received](https://github.com/Aldo-2077/Training-Received)
----
+
 ## *Connect with me* 
 [<img align="left" alt="Aldo_Oliveri | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/aldo-oliveri-14b489211)
