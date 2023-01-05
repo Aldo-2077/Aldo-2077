@@ -1,4 +1,4 @@
-# Hi, I'm Aldo! <br>[Cybersecurity Transitionist](https://www.linkedin.com/in/aldo-oliveri-14b489211)
+# Hi, I'm Aldo! <br>[Cybersecurity Practitioner](https://www.linkedin.com/in/aldo-oliveri)
 
 <br>
 
@@ -15,4 +15,4 @@
 ## [Training Received](https://github.com/Aldo-2077/Training-Received)
 
 ## *Connect with me* 
-[<img align="left" alt="Aldo_Oliveri | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/aldo-oliveri-14b489211)
+[<img align="left" alt="Aldo_Oliveri | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/aldo-oliveri)
